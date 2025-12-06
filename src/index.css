@@ -2,8 +2,6 @@
 /* Tailwind v4 plugin syntax - IDE warning can be ignored */
 @plugin "daisyui";
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
-
 :root {
     /* Ferrari-inspired color palette */
     --ferrari-red: #DC0000;
